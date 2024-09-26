@@ -14,6 +14,12 @@
 
 ###
 
+<h2 align="left">Comandos</h2>
+
+<p align="left">- Crear proyecto react: npx create-react-app frontend </p>
+
+###
+
 <h2 align="left">Codificado con</h2>
 
 ###
