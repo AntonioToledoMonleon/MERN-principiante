@@ -18,5 +18,8 @@ app.get('/', (request, response)=>{
     response.send("Bienvenido a mi api rest full");
 })
 
+//Ruta para la API de usuarios
+app.use('/api/usuarios', require('./routes/usuario_routes'))
+
 //Exportamos el modulo 'app' para utilizarlo en otro lugar del proyecto
 module.exports = app;

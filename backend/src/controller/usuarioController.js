@@ -4,7 +4,7 @@ const Usuario = require('../models/usuario')
 
 //GET
 usuarioController.getUsuarios = async(request, response) =>{
-    const usuarios = await usuario.find()
+    const usuarios = await Usuario.find()
     response.json(usuarios)
 }
 
