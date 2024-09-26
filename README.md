@@ -20,6 +20,12 @@
 
 ###
 
+<h2 align="left">Extensiones VSCode</h2>
+
+<p align="left">- ES7+ React/Redux/React-Native snippets<br>- npm Intellisense </p>
+
+###
+
 <h2 align="left">Codificado con</h2>
 
 ###
