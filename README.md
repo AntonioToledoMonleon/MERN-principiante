@@ -14,6 +14,13 @@
 
 ###
 
+<h2 align="left">Modulos</h2>
+
+<p align="left">- react-router dom: gestiona la navegación y el enrutamiento dinámico en aplicaciones React, sin recargar toda la página, unicamente a parte que haya sufrido cambios </p>
+
+
+###
+
 <h2 align="left">Comandos</h2>
 
 <p align="left">- Crear proyecto react: npx create-react-app frontend </p>
