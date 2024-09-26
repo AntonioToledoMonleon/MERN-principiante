@@ -1,8 +1,9 @@
 import './App.css';
+import React from 'react';
 import {Routes, Route} from 'react-router-dom' 
 
 import Navegacion from "./components/Navegacion";
-import CrearUsuarios from "./components/CrearUsuarios";
+import CrearUsuario from "./components/CrearUsuario";
 import ListaUsuario from "./components/ListaUsuario";
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
       <div class="container p-4">
         <Routes>
           <Route path="/" element={<ListaUsuario/>} />
-          <Route path="/CrearUsuario" element={<CrearUsuarios/>} />
+          <Route path="/CrearUsuario" element={<CrearUsuario/>} />
           <Route path="/edit/:id" element={<ListaUsuario/>} />
         </Routes>
       </div>
