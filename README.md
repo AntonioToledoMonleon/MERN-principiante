@@ -16,7 +16,7 @@
 
 <h2 align="left">Modulos</h2>
 
-<p align="left">- react-router dom: gestiona la navegación y el enrutamiento dinámico en aplicaciones React, sin recargar toda la página, unicamente a parte que haya sufrido cambios </p>
+<p align="left">- react-router dom: gestiona la navegación y el enrutamiento dinámico en aplicaciones React, sin recargar toda la página, unicamente a parte que haya sufrido cambios<br> - Axios: "npm i axios" biblioteca JS que realiza solicitudes HTTP</p>
 
 
 ###
